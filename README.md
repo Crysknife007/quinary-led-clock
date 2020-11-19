@@ -11,11 +11,14 @@ The clock gets quite a bit less bright after 8pm so that it doesn't illuminate t
 The code makes use of the libraries NTPClient and FastLED which can be found here:
 
 https://github.com/taranais/NTPClient
+
 https://github.com/FastLED/FastLED
 
-All the settings are configurable via defines near the top of the sketch which may have to be adjusted depending on what timezone you are in.
+All of the settings are configurable via defines near the top of the sketch which may have to be adjusted depending on what timezone you are in.
 
 The picture helps demonstrate how to read the clock:
 
 ![quinary clock](https://raw.githubusercontent.com/Crysknife007/quinary-led-clock/main/20201117_154320_HDR.jpg)
+
+Each color represents a different digit in base 5. The picture above is how the time 15:43 is represented. 
 
