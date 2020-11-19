@@ -22,5 +22,5 @@ The picture helps demonstrate how to read the clock:
 
 ![quinary clock](https://raw.githubusercontent.com/Crysknife007/quinary-led-clock/main/20201117_154320_HDR.jpg)
 
-Each color represents a different digit in base 5. The picture above is how the time 15:43 is represented. 
+Each color represents a different digit in base 5. The first two LED's are the hours, and the next three are the minutes. In my scheme Red is 4, Green is 3, Blue is 2, Purple is 1, and Yellow is 0. The picture above is how the time 15:43 is represented. 
 
