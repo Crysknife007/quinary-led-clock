@@ -15,5 +15,5 @@ All the settings are configurable via defines near the top of the sketch which m
 
 The picture helps demonstrate how to read the clock:
 
-https://raw.githubusercontent.com/Crysknife007/quinary-led-clock/main/20201117_154320_HDR.jpg
+![quinary clock](https://raw.githubusercontent.com/Crysknife007/quinary-led-clock/main/20201117_154320_HDR.jpg)
 
