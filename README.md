@@ -1,6 +1,8 @@
 # Quinary LED Art Clock
 
-This clock untilizes base 5 to represent the time using 5 neopixels. 
+This clock untilizes base 5 to represent the time using 5 neopixels. I've written a lot more about the project on my blog:
+
+http://spikesnell.com/index.php?entry=Quinary-LED-Art-Clock
 
 Some key features of the clock are that it sets itself automatically via NTP when it is powered on, and it continues to sync with NTP every now and then to account for drift on the esp8266. It also adjusts for Daylight Savings Time automatically by checking against what the current date is and adjusting the offset appropriately.
 
