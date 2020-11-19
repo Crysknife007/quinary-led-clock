@@ -1,5 +1,7 @@
 # Quinary LED Art Clock
 
+![quinary led clock](https://raw.githubusercontent.com/Crysknife007/quinary-led-clock/main/15_43a.jpg)
+
 This clock untilizes base 5 to represent the time using 5 neopixels. The full write-up for this project can be found on my blog:
 
 http://spikesnell.com/index.php?entry=Quinary-LED-Art-Clock
