@@ -1,6 +1,6 @@
 # Quinary LED Art Clock
 
-This clock untilizes base 5 to represent the time using 5 neopixels. I've written a lot more about the project on my blog:
+This clock untilizes base 5 to represent the time using 5 neopixels. The full write-up for this project can be found on my blog:
 
 http://spikesnell.com/index.php?entry=Quinary-LED-Art-Clock
 
